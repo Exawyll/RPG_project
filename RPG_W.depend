@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1454945563 source:c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\equipment.c
+	<stdio.h>
+	<stdlib.h>
+	"equipment.h"
+
+1454944373 c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\equipment.h
+	"stuffItems.h"
+
+1454944345 c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\stuffitems.h
+
+1454945585 source:c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\gameutil.c
+
+1454945948 source:c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\main.c
+	<stdio.h>
+	<stdlib.h>
+	"player.h"
+	"equipment.h"
+	"stuffItems.h"
+
+1454945622 c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\player.h
+	"mob.h"
+
+1454945611 c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\mob.h
+	"mob_race.h"
+	"equipment.h"
+
+1454943347 c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\mob_race.h
+
+1454945999 source:c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\mob.c
+	<stdio.h>
+	<stdlib.h>
+	"mob.h"
+
+1454945694 source:c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\mob_race.c
+	<stdio.h>
+	<stdlib.h>
+	"mob_race.h"
+
+1454939360 source:c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\player.c
+	<stdio.h>
+	<stdlib.h>
+	"player.h"
+
+1454945665 source:c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\stuffitems.c
+	<stdio.h>
+	<stdlib.h>
+	"stuffItems.h"
+
+1454946011 source:c:\users\stèphanie\documents\imie itstart\antoine_c\code_source_c\rpg_w\usableitems.c
+

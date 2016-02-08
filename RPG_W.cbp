@@ -31,9 +31,36 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="equipment.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="equipment.h" />
+		<Unit filename="gameUtil.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="mob.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mob.h" />
+		<Unit filename="mob_race.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mob_race.h" />
+		<Unit filename="player.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="player.h" />
+		<Unit filename="stuffItems.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stuffItems.h" />
+		<Unit filename="usableItems.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="usableItems.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
