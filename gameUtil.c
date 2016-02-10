@@ -23,3 +23,4 @@ int rollDice_attack(){
 int rollDice_dodge(){
     return doRand(1, 8);
 }*/
+
